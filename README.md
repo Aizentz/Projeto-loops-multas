@@ -1,0 +1,1 @@
+Projeto simples que simula multas em um veículo de código específico. é bem intuitivo de se usar, basta escolher entre a rua e a avenida e as suas respectivas multas serão calculadas levando em consideração a velocidade descrita pelo usuário
